@@ -1,0 +1,23 @@
+{
+  "name": "polymer-redux-example",
+  "description": "polymer redux example",
+  "main": "index.html",
+  "authors": [
+    "Steven Zhang <jdomzhang@gmail.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [
+    "es6"
+  ],
+  "homepage": "https://github.com/jdomzhang/polymer-redux-example",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer-redux": "~0.0.2"
+  }
+}
